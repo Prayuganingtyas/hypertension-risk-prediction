@@ -1,4 +1,4 @@
-# hypertension-risk-prediction
+# Hypertension Risk Prediction
 This project analyzes and predicts the risk of hypertension using Python and machine learning techniques.
 
 # Dataset
